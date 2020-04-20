@@ -1,6 +1,6 @@
-#Objetivo
+#Objetivo\
 Codigos y Trabajos en C++\
-##Integrantes:
+##Integrantes:\
 Juan Jose Alvarez Rodriguez\
 Julian Camilo Casas Jimenez\
-Ivan Dario Sandoval\
+Ivan Dario Sandoval
